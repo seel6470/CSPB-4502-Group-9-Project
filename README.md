@@ -28,6 +28,7 @@ After analyzing the data, it became evident that certain brands and item categor
 The K-means algorithm is useful in predicting products similar to what is being viewed. It can suggest other products within the same category or other items that were frequently bought with the currently viewed item. The company can use it to entice users to buy more items or help them find similar items that are a different brand or price. It will help improve the customer's shopping experience and their satisfaction. By predicting products, it can help guide them to products they might not have found otherwise and increase the probability of a purchase.
 
 ## Video Demonstration
+[Group 9 Video Presentation](https://youtu.be/I1ga_mxDZSs)
 
 ## Final Project Link
 [09_TrendsAndAnalysisofeCommerceData_Part4](./09_TrendsAndAnalysisofeCommerceData_Part4.pdf)
