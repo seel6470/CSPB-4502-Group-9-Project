@@ -30,3 +30,4 @@ The K-means algorithm is useful in predicting products similar to what is being 
 ## Video Demonstration
 
 ## Final Project Link
+[09_TrendsAndAnalysisofeCommerceData_Part4](./09_TrendsAndAnalysisofeCommerceData_Part4.pdf)
